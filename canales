@@ -1,0 +1,265 @@
+#EXTM3U
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-_-V-7hdbAT8/YPMcTNiVZPI/AAAAAAAAE9s/CsK-wg8281EG9wrOeOx-LZVzMZ-0yho-gCLcBGAsYHQ/s50/La1.png" group-title="Lista Es 27",La 1
+http://185.41.244.69/la1hd/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-E96o-ROqI74/YPMdPFjcEgI/AAAAAAAAE90/anFTQI08LI0Kcabo_w95V4RYMlRkkBG6wCLcBGAsYHQ/s50/La2.png" group-title="Lista Es 27",La 2
+http://185.41.244.69/la2hd/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-WkaDuL7xtTs/YPMZ4VVBLqI/AAAAAAAAE9c/tjIjl3aYuuMo15ey6fEjejRjvDFfHYeZACLcBGAsYHQ/s50/A3.png" group-title="Lista Es 27",Antena 3
+http://185.41.244.69/antena3hd/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-we4bR5CD7gM/YPLBa6xlYBI/AAAAAAAAE40/CzCbvyN9k9cqvc3VuTL2XlhiAvXum4HWQCLcBGAsYHQ/s50/Cuatro.png" group-title="Lista Es 27",Cuatro
+http://185.41.244.69/cuatrohd/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-PFtlKYZaonA/YPMYyfQAzPI/AAAAAAAAE9U/4NOpSgP9_1U1NL84bFyfZl_-XwBcYlvWwCLcBGAsYHQ/s50/T5.png" group-title="Lista Es 27",Telecinco
+http://185.41.244.69/telecincohd/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-I2pgAZ9aQrE/YPf_7x5IdTI/AAAAAAAAFR8/1Y2U4Hb8TqwSUErv8HQ6TpzhZ3buVj4jwCLcBGAsYHQ/s50/lasexta2.png" group-title="Lista Es 27",La Sexta
+http://185.41.244.69/lasextahd/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-eKZMKX_NG8k/YPLKUfBOJBI/AAAAAAAAE5c/CoUstcx2Lt0EizELdh1Ei2nuIhcyOjL8QCLcBGAsYHQ/s50/Trece.png" group-title="Lista Es 27",Trece
+http://185.41.244.69/trecetv/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-18qnUwhD6SQ/YPMi5pe93TI/AAAAAAAAE-M/WhfoXbVU2Wcr30xsaM2xQZG8CBzD9px2QCLcBGAsYHQ/s50/ELToroTV.png" group-title="Lista Es 27",El Toro TV
+
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-KueCG39RLrQ/YPqhhOBVYaI/AAAAAAAAFWM/3zyo69AvkBQgjcDXppCtb_KrJMrP75xVACLcBGAsYHQ/s50/0.png" group-title="Lista Es 27",#0
+http://status.tehw00t.net:80/miniProxy.php/http://31.220.41.87:8081/live/es-moviestar0.stream/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-iCVmwU0SnTY/YPknSfe-4aI/AAAAAAAAFTE/_omW0RoFvZIWwO7r3Q8MFUvVcre1YDo3ACLcBGAsYHQ/s50/mega.png" group-title="Lista Es 27",Mega
+http://185.41.244.69/mega/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/--hCStJrX1pA/YPkpFb5-6ZI/AAAAAAAAFTU/IILtsiOlolUuJU-VF1uBbZF6NLWIh1lMQCLcBGAsYHQ/s50/BeMad3.png" group-title="Lista Es 27",Be Mad
+http://91.126.138.140:1935/live/bemad/chunklist_w1673279471.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-xnNvAPU3X8I/YBg-7BUreTI/AAAAAAAAEkk/hv1k5gG8LjgD9fwN2HqVbla3MesyjGMwACLcBGAsYHQ/s50/max.png" group-title="Lista Es 27",DMAX
+http://185.41.244.69/dmax/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-pyOUMdeOIYA/YPkmOV45q2I/AAAAAAAAFS8/f9xN_xYDDpo888oR6cLkTFQYueL-HVLjgCLcBGAsYHQ/s50/Cosmo2.png" group-title="Lista Es 27",COSMO
+http://91.126.141.201:1935/live/cosmoHD/chunklist_w1473340396.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-eA4AneD722U/YPkriUQKEUI/AAAAAAAAFTk/AYxGi7mLDfIIG2k8dEMNv5reRsueKmYuwCLcBGAsYHQ/s50/ten2.png" group-title="Lista Es 27",Ten
+http://185.41.244.69/ten/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-YpLaDZcwL8I/YPklZHMurrI/AAAAAAAAFS0/MrPwr-stvJc0gtAhLZxHupmF-FcEy051gCLcBGAsYHQ/s50/dkiss.png" group-title="Lista Es 27",DKISS
+http://185.41.244.69/dkiss/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-jGXUXVo9AYQ/YPkkJ8JXO0I/AAAAAAAAFSs/4__15URUWbsSqOPjIaEEx0botAwWjEqawCLcBGAsYHQ/s50/Blaze2.png" group-title="Lista Es 27",Blaze
+http://185.41.244.69/blaze/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-qzXbl6lQuBA/YPMnp3o0X3I/AAAAAAAAE-k/6O1lq_uf9FQohCSFD7yOlAs83AOFGniHgCLcBGAsYHQ/s50/Divinity.png" group-title="Lista Es 27",Divinity
+http://185.41.244.69/divinity/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-HADQ-cPxHIM/YPkqK3cQXrI/AAAAAAAAFTc/d96CXLn7fXooO4kth9O-QseBp1nlJRBegCLcBGAsYHQ/s50/nova.png" group-title="Lista Es 27",Nova
+http://185.41.244.69/nova/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-8SwtzY66FbQ/YP8GJyYsvbI/AAAAAAAAFZM/iBpPBeSCAnMe2rbH0wejJRs0CGM52hmiwCLcBGAsYHQ/s50/decasa50.png" group-title="Lista Es 27",Decasa
+
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-BZE0w_93aG0/YPaqtG5yAsI/AAAAAAAAFNQ/ztRREEre_F0Y1d1YhB7RgpUZ_2Kt_d5dACLcBGAsYHQ/s50/Cocina.png" group-title="Lista Es 27",Canal Cocina
+http://185.41.244.69/cocina/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-lkYSrXx62-g/YPLW_jQWq6I/AAAAAAAAE6E/BgOCewGScFoob46XF8dDGG4yk9mgXLdJACLcBGAsYHQ/s50/mtmad.png" group-title="Lista Es 27",mtmad 24h
+https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-OZ1E-mZJA00/YPceoxMZkPI/AAAAAAAAFPw/fn3qU7LZN18ySgRra3gUJ-ul3kUWDCldQCLcBGAsYHQ/s50/HolaPlay.png" group-title="Lista Es 27",&#161;HOLA! Play
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-WLKgjiCNIWw/YPab-6Ql3RI/AAAAAAAAFMs/tIgpaZBzrWYVGbLPu-Qr0KeMkqijegOHgCLcBGAsYHQ/s50/LaVoz24h50.png" group-title="Lista Es 27",La Voz 24h
+https://pull12.atresmedia.com/lavoz/master.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-bfi3hQJi0OA/YP796eEVGbI/AAAAAAAAFYM/Ne7CEVXs_lUuz4PmdgWMadSGGT2QOd-AwCLcBGAsYHQ/s50/Mestrenos.png" group-title="Lista Es 27",Movistar Estrenos
+http://status.tehw00t.net:80/miniProxy.php/http://31.220.41.86:8081/live/es-movistaresternos.stream/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-mcJiwbeUCDc/YP7_ffOQTzI/AAAAAAAAFYc/5HWFWiulU2o-__1Y2tP5JUkC_t1WPD71wCLcBGAsYHQ/s50/Maccion.png" group-title="Lista Es 27",Movistar Acción
+http://status.tehw00t.net:80/miniProxy.php/http://31.220.41.86:8081/live/es-movistar-accion.stream/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-k80U0Fl80LY/YP7_z6gFgtI/AAAAAAAAFYk/uA0Z_q8dkvYeXwMEvuM4N_TUARylFl39gCLcBGAsYHQ/s50/MComedia.png" group-title="Lista Es 27",Movistar Comedia
+
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-7VU9p9NALHg/YP8AJsTC_ZI/AAAAAAAAFYs/qdeOkST2e5IPcniaSIpn1nPDKdi2hzcmgCLcBGAsYHQ/s50/Mdrama.png" group-title="Lista Es 27",Movistar Drama
+http://status.tehw00t.net:80/miniProxy.php/http://31.220.41.87:8081/live/es-movistar-dcine.stream/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-LrHOVX88amg/YP7_CiwbrFI/AAAAAAAAFYU/vF1JDftYoG86kTqpzxd9umZ0SztCwJuswCLcBGAsYHQ/s50/mxtra.png" group-title="Lista Es 27",Movistar CineDoc&amp;Roll
+http://status.tehw00t.net:80/miniProxy.php/http://31.220.41.87:8081/live/es-movistar-series-xtra.stream/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-ka428VJ-uCE/YP8AfToO0GI/AAAAAAAAFY0/KOrBiX5SBX056PTadWCtB0OIWfZyfeezwCLcBGAsYHQ/s50/Mcinen.png" group-title="Lista Es 27",Movistar Cine Español
+http://status.tehw00t.net:80/miniProxy.php/http://31.220.41.87:8081/live/es-moviestarcinen.stream/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-GYP6Wt9AdI4/YPkxb4iMaSI/AAAAAAAAFT8/IHxzmUhuj7YbVz4xUrp3G3EHj499q82yACLcBGAsYHQ/s50/a3cine2.png" group-title="Lista Es 27",Atrescine
+http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-Frxjh9wn9sI/YPsrUcdpIMI/AAAAAAAAFWc/_xkJuGajpNM7KBsZaysIq_X4w-u50CQDQCLcBGAsYHQ/s50/somos.png" group-title="Lista Es 27",Somos
+http://185.41.244.69/somos/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-ybIbmCYH1pQ/YPLpqUlj5qI/AAAAAAAAE6c/4PiG8eGVOqUphnBxenkcKqgYVwXLkFSLACLcBGAsYHQ/s50/TCM.png" group-title="Lista Es 27",TCM
+http://185.41.244.69/tcm/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-os6RsoY2oIA/YPtMa-83hAI/AAAAAAAAFXs/djNzCsjpEmEz1oHC6B7jUhM1KqTE-oV4ACLcBGAsYHQ/s50/darkrojo45.png" group-title="Lista Es 27",DARK
+http://185.41.244.69/dark/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-oUuRoY8FvF0/YP8DZVRz6RI/AAAAAAAAFY8/0gbwuE21DA4Ki6sd9sk3xIO1VolW2vdWQCLcBGAsYHQ/s50/sudancetv.png" group-title="Lista Es 27",Sundance TV
+http://185.41.244.69/sundancetv/tracks-v1a1a2/mono.m3u8?f=.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-RZisEHf4NTI/YPs-adrGHMI/AAAAAAAAFXU/rg4lt2xKDBMfPfIMPEethFQoevkivmolQCLcBGAsYHQ/s50/bom.png" group-title="Lista Es 27",BOM Cine
+http://185.41.244.69/bom/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-j_Wn4UsD1xY/YPMtnfLm9rI/AAAAAAAAE-0/KeHMCJO5020ZHlpZqTPn5E_EKLHD_z2jQCLcBGAsYHQ/s50/Hollywood.png" group-title="Lista Es 27",Hollywood
+http://185.41.244.69/hollywood/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-oCjy399qA-k/YPMuzo8vo1I/AAAAAAAAE-8/IJ3juYVJtWsXP1e4jlhcek5IRfNCWrGoQCLcBGAsYHQ/s50/Paramount.png" group-title="Lista Es 27",Paramount Network
+http://185.41.244.69/paramountnetwork/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-3JjYnUwzpD4/YPLwVN6gEAI/AAAAAAAAE6s/zq_4LEMEjOwvhotnWII9dHItkqRalybCgCLcBGAsYHQ/s50/MyTime.png" group-title="Lista Es 27",My Time Movie Network
+https://appletree-mytimespain-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-nHKmhS5m99I/YJASTknNqKI/AAAAAAAAEuI/5MSI17f7wTcD7bI_TmEgP-SoFsePKlgmwCLcBGAsYHQ/s50/Verdi.png" group-title="Lista Es 27",Verdi TV
+https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-VMljPbTe3NA/YPMrMq_nQFI/AAAAAAAAE-s/CkAO5eeOQS0CNKFGjb_zh2WIu1PEW3kjwCLcBGAsYHQ/s50/Rakuten.png" group-title="Lista Es 27",Rakuten TV
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-KfvEIO_P3ys/YPLxN1DLIJI/AAAAAAAAE60/G86OUH3ZISQk_brjDozV3_exBUHskamSACLcBGAsYHQ/s50/Run-Time.png" group-title="Lista Es 27",Run:Time
+https://runtimeespana-samsungspain.amagi.tv/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-Mzvaab9BVeY/YPa4AxcM4LI/AAAAAAAAFNo/TwNEKWRmiUweHZAazKR39FlkIvfwpWzUwCLcBGAsYHQ/s50/MSeries.png" group-title="Lista Es 27",Movistar Series
+http://status.tehw00t.net:80/miniProxy.php/http://31.220.41.86:8081/live/es-movistar-series.stream/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-Z1RCHu_ffco/YPa4DS0K4dI/AAAAAAAAFNs/sZRR9_WtM_EiDJAX5iOHGnqMbt3ydt0ggCLcBGAsYHQ/s50/MSeriesmania.png" group-title="Lista Es 27",Movistar Seriesmania
+http://status.tehw00t.net:80/miniProxy.php/http://31.220.41.86:8081/live/es-movistar-seriesmania.stream/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-GBwweQSdQ2o/YPk61_5TUjI/AAAAAAAAFU0/CyGBZ292Kq03bTWZGz4tidhqZD9OwCppACLcBGAsYHQ/s50/axn.png" group-title="Lista Es 27",AXN
+http://status.tehw00t.net:80/miniProxy.php/http://31.220.41.86:8081/live/es-axn.stream/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-_dVTm1EicxI/YPk5V_MvHvI/AAAAAAAAFUs/S9bzUxO6A5QOeC4JmwbHlSN14lpr58SgACLcBGAsYHQ/s50/AXNwhite2.png" group-title="Lista Es 27",AXN White
+http://status.tehw00t.net:80/miniProxy.php/http://31.220.41.86:8081/live/es-axn-white.stream/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-Ktum6VUTo5Q/YPky3O_Z5FI/AAAAAAAAFUE/D__3AiNqoUg6aSAcMa3Pm998TW1B0FUWwCLcBGAsYHQ/s50/SYFY2.png" group-title="Lista Es 27",SYFY
+http://status.tehw00t.net:80/miniProxy.php/http://31.220.41.86:8081/live/es-syfy.stream/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-MV62sz7QqNI/YPtPIxc78_I/AAAAAAAAFX8/5HuWE754b5oz1AKpC-o0uxFzRSrn7M0ugCLcBGAsYHQ/s50/acm35.png" group-title="Lista Es 27",AMC
+http://185.41.244.69/amc/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-m4aHMcB9gtY/YPk0eiWX3rI/AAAAAAAAFUU/rtoTofPtf-IBTHDHClds4WxaHcGgV3b9QCLcBGAsYHQ/s50/FOX.png" group-title="Lista Es 27",Fox
+http://185.41.244.69/fox/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-YWsTdDRkzAM/YKvaD4cjszI/AAAAAAAAEu0/UYloirJuTwojHtfNEj7OLCs6D8mUKD98wCLcBGAsYHQ/s50/FoxLife.png" group-title="Lista Es 27",Fox Life
+http://185.41.244.69/foxlife/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-vKD8d2rPlLY/YPk3CU4YJRI/AAAAAAAAFUk/Z1gNEE0v56ABaXgpw20I-pLwsG73GfvbACLcBGAsYHQ/s50/Calle13-2.png" group-title="Lista Es 27",Calle 13
+http://status.tehw00t.net:80/miniProxy.php/http://31.220.41.86:8081/live/es-calle-13.stream/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-g0q4SezhdB8/YPMPbkcCjsI/AAAAAAAAE8U/KnvflqWPynIs00uS6v1p7O0IHJe0u3C_gCLcBGAsYHQ/s50/TNT_2016.png" group-title="Lista Es 27",TNT
+http://185.41.244.69/tnt/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-VfnXzNDaNEc/YPk2SH5iQ7I/AAAAAAAAFUc/Fi9bZconHL0eZv6GrNqiRtoJArOOvVKQgCLcBGAsYHQ/s50/neox.png" group-title="Lista Es 27",Neox
+http://185.41.244.69/neox/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-EOIqGHUyk9E/YPf4wm4lAVI/AAAAAAAAFRk/I-9-8-RPp78urOPZXeA0UDQQJrwNMRLQQCLcBGAsYHQ/s50/A3S.png" group-title="Lista Es 27",Atreseries
+http://185.41.244.69/atreserieshd/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-jRk0lzrlkxY/YPs1DTZ90rI/AAAAAAAAFXE/wCrWoh7rO1QPYID4uttVjAD69lX3z7bUACLcBGAsYHQ/s50/comedy50.png" group-title="Lista Es 27",Comedy Central
+http://185.41.244.69/comedycentral/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-m_vvgp9Wey8/YPMQ6X3xPVI/AAAAAAAAE8c/f7eDU8IebQkAofkEWBFyxwUenITlCul9QCLcBGAsYHQ/s50/fdf.png" group-title="Lista Es 27",Factoría de Ficción
+http://185.41.244.69/fdf/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-QYtlPgoKPq8/YPMXcHHCedI/AAAAAAAAE9M/xNzu5Z53Q0MdkasmKHv1D5ygvIcrKO0PwCLcBGAsYHQ/s50/Energy.png" group-title="Lista Es 27",Energy
+http://185.41.244.69/energy/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-J9g0y6e-wxI/YPMMkDNNa1I/AAAAAAAAE8E/ovuvna6oAocVR-9b_V_yTyMb-NjJShrNACLcBGAsYHQ/s50/Historia.png" group-title="Lista Es 27",Historia
+http://185.41.244.69/historia/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-ImYYg5lteTk/YPMLViFgJQI/AAAAAAAAE78/Q_2u-4_EMRMaY_vDjahOWCUI8oGGzp4KQCLcBGAsYHQ/s50/Discovery.png" group-title="Lista Es 27",Discovery
+http://185.41.244.69/discoverychannel/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-0Kq1sIXQNpg/YPdN1yiEh6I/AAAAAAAAFQo/sfVxLF7ZxVkjWrbbmVJsZ7rnG31ZHnXMACLcBGAsYHQ/s50/natgeo2.png" group-title="Lista Es 27",National Geographic
+http://status.tehw00t.net:80/miniProxy.php/http://31.220.41.86:8081/live/es-national-geographic.stream/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-R0jFbCmD8rM/YPdOC2TlLHI/AAAAAAAAFQs/AkB_9h8qEtEwl8W6ybN7O0jEnV3yT69AgCLcBGAsYHQ/s50/wild2.png" group-title="Lista Es 27",Nat Geo Wild
+http://185.41.244.69/natgeowildhd/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-g0AYCE-OiNs/YPaR5tPchPI/AAAAAAAAFMM/lpMliRSwFTkIUTXKLSpnaLSKH14xwZTVACLcBGAsYHQ/s50/odisea.png" group-title="Lista Es 27",Odisea
+http://185.41.244.69/odisea/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-Q6kXmEjtb78/YPk8Qp0NflI/AAAAAAAAFU8/DvKCmVODlpgtZRBSlNfk_HlWsklIjeN-gCLcBGAsYHQ/s50/viajar2.png" group-title="Lista Es 27",Viajar
+http://185.41.244.69/viajarhd/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-aW0zzSSj0gM/YPaaR_k8WVI/AAAAAAAAFMc/oabQNGazdF0TO3xu1lvA3UhRgiBP5svQgCLcBGAsYHQ/s50/crimen%252Binves.png" group-title="Lista Es 27",Crimen + Investigación
+http://185.41.244.69/ci/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-nf6szJusFuc/YPW8GHHwN_I/AAAAAAAAFLk/p20CIrOE8VcA8dp6YGl3JUgpNoZdE3ZwwCLcBGAsYHQ/s50/UneArth.png" group-title="Lista Es 27",Unearth
+https://alchimie-unearth-3-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-GZeABFfcSGs/YPld5xMaKjI/AAAAAAAAFV8/LNnfVtREce8drMx-nZxs3V-CJufzqYNuQCLcBGAsYHQ/s50/gol3.png" group-title="Lista Es 27",GOL
+http://185.41.244.69/goltv/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-XdFHEdRA0oA/YPP_cV-4y4I/AAAAAAAAFAM/1gRDyMOWlT0kTFsdrzgmbDfrg4GXlitwgCLcBGAsYHQ/s50/tdp.png" group-title="Lista Es 27",Teledeporte
+http://91.126.141.13:1935/live/91/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-8CHzER3lfQQ/YPWXEty3WBI/AAAAAAAAFKM/1AtV47kG88AGYvCmibT4_RsslpUyU7fbACLcBGAsYHQ/s50/Vamos.png" group-title="Lista Es 27",#Vamos
+
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-d8keuBluXr0/YPfz1q1jtZI/AAAAAAAAFRU/ipPU1q09jywGat3F32W3ob8YdIRSGA1gQCLcBGAsYHQ/s50/MDeportes.png" group-title="Lista Es 27",Movistar Deportes
+http://status.tehw00t.net:80/miniProxy.php/http://31.220.41.86:8081/live/es-movistar-deportes2.stream/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-5f3YNrhC8kI/YPfz1lbXpKI/AAAAAAAAFRY/sBPCPgp0TQAdv_-dV1HoidrnN_2nReA3ACLcBGAsYHQ/s50/MLaliga.png" group-title="Lista Es 27",Movistar La Liga
+http://status.tehw00t.net:80/miniProxy.php/http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-reOG8xXrOBg/YPfz1u9gEOI/AAAAAAAAFRQ/YMjOrTJlR78AmsJRgTKWf7npXSBU7hEOQCLcBGAsYHQ/s50/Mgolf.png" group-title="Lista Es 27",Movistar Golf
+
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-KjwoOIV1shU/YPWOajw9SdI/AAAAAAAAFJ0/thKA5tKhXL0c2LVyJfVOVilWV2bn4WMcQCLcBGAsYHQ/s50/Dazn1-40.png" group-title="Lista Es 27",DAZN 1
+
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-E7SK7e2iqIM/YPWSEEQcBMI/AAAAAAAAFKE/h6vwZBltQBgVq8a4Ln09oBicPyYUZk6iQCLcBGAsYHQ/s50/daznF1.png" group-title="Lista Es 27",DAZN F1
+http://status.tehw00t.net:80/miniProxy.php/http://31.220.41.87:8081/live/es-moviestarf1.stream/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-RofndGOsnn8/YPQBC2vpOYI/AAAAAAAAFAU/Nhdsk3btKC82mrp1zseHFtKfLagyMPekACLcBGAsYHQ/s50/Euro1.png" group-title="Lista Es 27",Eurosport 1
+http://185.41.244.69/eurosport1/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-hwTgRnnJSEs/YPW08YleaoI/AAAAAAAAFLE/-4S__OgTW9ATQOITjxUQ3S5k086U5dgkACLcBGAsYHQ/s50/Eurosport2.png" group-title="Lista Es 27",Eurosport 2
+http://status.tehw00t.net:80/miniProxy.php/http://31.220.41.86:8081/live/es-eurosport2.stream/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-AZoKdKSn2pk/YPQFM842KSI/AAAAAAAAFAc/qZUdDNfJG34CO_L6e5LY9H24Kio7idspQCLcBGAsYHQ/s50/BarcaTV2.png" group-title="Lista Es 27",Barça TV
+http://185.41.244.69/barcelonatv/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-BqOiunw7-Cw/YPc8_2h_kXI/AAAAAAAAFQY/vsMM4NfekKYENmiKaRtysX1zKGG33z7zACLcBGAsYHQ/s50/RMTV2.png" group-title="Lista Es 27",Real Madrid TV
+http://185.41.244.69/realmadridtvhd/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-pI_9BboCvZ8/YPcrKp-leII/AAAAAAAAFQA/TGw3Kw9D-5w-L-9q6_8ArVdeSgBXKC7rQCLcBGAsYHQ/s50/sevilla2.png" group-title="Lista Es 27",Sevilla FC TV
+https://streamamghdl-lh.akamaihd.net/i/0wzckw85c_1@723099/master.m3u8?cGhvdG9jYWxsLnR2&hdnea=st=1578477278~exp=1641591182~acl=/i/0wzckw85c_1@723099*~hmac=ca07e1ca3d48a296090d6f2b70fcd2fd66fee6178ab9faa83b7d93520d250fec
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-q4OFIJaaqBM/YPQakgQEyaI/AAAAAAAAFA8/WT0EzjzeO2coPcX-U_RaJo6Ji6PNgPjbQCLcBGAsYHQ/s50/UDTV.png" group-title="Lista Es 27",UD Las Palmas TV
+https://cdn041.fractalmedia.es/stream/live/udtv/index.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-oUIWKYeO6O8/YPW5I9wy30I/AAAAAAAAFLU/IM6go-6sJW8YU8EPpsLnU5au3qJJzAckwCLcBGAsYHQ/s50/Sport3-30.png" group-title="Lista Es 27",Esport 3 (Cataluña)
+https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist_DVR.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-IalXIbDtziU/YPW30SFwY9I/AAAAAAAAFLM/czuEWVVHFCILtott3_IwTc36NgffzHW-gCLcBGAsYHQ/s50/CazayPesca.png" group-title="Lista Es 27",Caza y Pesca
+http://status.tehw00t.net:80/miniProxy.php/http://31.220.41.86:8081/live/es-caza-pesca.stream/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-IrDw6IosmPU/YP8QWkvny-I/AAAAAAAAFZU/WfAvyMB1p9QZXgRyAU7ayYm-PdxHclhIACLcBGAsYHQ/s50/iberaliatv.png" group-title="Lista Es 27",Iberalia TV
+
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-v9Tr3JzyvpI/YPQdHh5uG1I/AAAAAAAAFBM/S7o4lE0je7gd_Xx-d-Vwhw4mawC4Pix2wCLcBGAsYHQ/s50/cazavision.png" group-title="Lista Es 27",Cazavisión
+https://cdn039.fractalmedia.es/hls/caz_es_low.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-CyzUQiQpoOs/YPdCG63o2oI/AAAAAAAAFQg/kdPw-3Hn7eMdmm9d41oCpc_qajLLvgTlwCLcBGAsYHQ/s50/toros2.png" group-title="Lista Es 27",Toros
+http://status.tehw00t.net:80/miniProxy.php/http://31.220.41.86:8081/live/es-toros.stream/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-UGBedA91udQ/YPQ5FeyA2wI/AAAAAAAAFCQ/Ur7Z5BPb2XolcSEMes31vuRImDFx_GOnwCLcBGAsYHQ/s50/canalsurr.png" group-title="Lista Es 27",Canal Sur (Andalucía)
+http://91.126.39.101:1935/live/smil:canalsur.smil/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-fHwumvL5TJ4/YPRJW6xiXWI/AAAAAAAAFCg/1wKCs5Y-CWQJB6wgCZcp2YZuZzxZ3oNgACLcBGAsYHQ/s50/aragon.png" group-title="Lista Es 27",Aragón TV
+http://91.126.138.140:1935/live/aragontv-stream/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-QTVqb0ZVQOY/YPRea7HGRXI/AAAAAAAAFCo/o0b5JlZIq14K_pWEDwkUY6O8WL8Avl13gCLcBGAsYHQ/s50/apunt.png" group-title="Lista Es 27",À Punt (Comunidad Valenciana)
+http://185.41.244.69/apunthd/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-j9qA1SS0HvE/YPRkK2-LcUI/AAAAAAAAFDA/sUhnTKYbmlQm-oiGppzW2i_0IX06ojBKwCLcBGAsYHQ/s50/cmm.png" group-title="Lista Es 27",Castilla-La Mancha Media
+http://185.41.244.69/castillalamanchahd/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-OAQ8mek4860/YPRoeGNtpFI/AAAAAAAAFDI/3HjhT7h068s1aAGhbKEb5vW0-pZWX-KagCLcBGAsYHQ/s50/la7.png" group-title="Lista Es 27",La 7 (Castilla y León)
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-5oJvoe9zHp0/YPRrQaR5rjI/AAAAAAAAFDQ/skpPTpVJLs8lqw64_jP8uf4eErUi-FwjgCLcBGAsYHQ/s50/la8.png" group-title="Lista Es 27",La 8 (Castilla y León)
+https://cdnlive.shooowit.net/la8burgoslive/streamswitchingchannel.smil/.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-cPreUBJ0-RU/YPRtNGwvouI/AAAAAAAAFDY/L4OsxV13J2cPMvvYFE78qE3gVbbaABUYQCLcBGAsYHQ/s50/tv3.png" group-title="Lista Es 27",TV3 (Cataluña)
+http://185.41.244.69/tv3/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-TU0h-mjCUOU/YPRuP8uBiiI/AAAAAAAAFDg/UVncvSQE1So8F2HQQ5xXR3AdRcON1H7uQCLcBGAsYHQ/s50/33.png" group-title="Lista Es 27",33 (Cataluña)
+https://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/playlist_DVR.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-1xvA4HdTKS8/YPTfn-iem_I/AAAAAAAAFDw/KIXXWj_ZTz8Q7DAgkosibaR65dwH3F0BwCLcBGAsYHQ/s50/ceuta.png" group-title="Lista Es 27",TV Ceuta
+https://cdnlive.shooowit.net/rtvcelive/channel1.smil/.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-KvuDz575mtM/YPTh5ejwt0I/AAAAAAAAFD4/m7LbrAkjfFg8Da6uiRsBg3pFRbzfXBygwCLcBGAsYHQ/s50/Extremadura.png" group-title="Lista Es 27",Canal Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-abFZA0enxIU/YPhcyecGafI/AAAAAAAAFSU/AGl2S5koTaEt5xM3aW-2IAH3EgyG6mdKgCLcBGAsYHQ/s50/tvg.png" group-title="Lista Es 27",TVG (Galicia)
+https://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-vWyZCWCxaL0/YPhaCIUh2lI/AAAAAAAAFSM/QeNTSlL0_Xs-zGReXCujInhBLFI-pTNbQCLcBGAsYHQ/s50/tvg22.png" group-title="Lista Es 27",TVG 2 (Galicia)
+http://events3-crtvg.flumotion.com:80/crtvg/events3_high/chunks.m3u8
+#EXTINF:-1 logo="https://www.televall.online/https://1.bp.blogspot.com/--nJXHDALoLw/YPTumg1M0zI/AAAAAAAAFEY/C8mAKVvlUo4fwDZT3tGgAHzsbY9Yw1jNwCLcBGAsYHQ/s50/ib3.png" group-title="Lista Es 27",IB3 (Islas Baleares)
+http://blackghost.live/play/mitv-725.php?id=&f=.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-oqk0gPCvfy0/YPb6wNYeAVI/AAAAAAAAFPI/Mf9wE_WiPSYMXnfXXc8MW_GtXdGjCoYrwCLcBGAsYHQ/s50/tvcanaria2.png" group-title="Lista Es 27",TV Canaria
+https://rtvc-live1.flumotion.com/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-0m2wFcfqxco/YPbpBwJL0qI/AAAAAAAAFOo/R5-0bDz4MDoASDjOTFNgb_ENwG9ygvJyACLcBGAsYHQ/s50/telemadrid2.png" group-title="Lista Es 27",TeleMadrid (Comunidad de Madrid)
+http://185.41.244.69/telemadrid/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-QgXDuZ8XmQA/YPbpedNTufI/AAAAAAAAFOw/J9iAUivph-MYSGez3qoIL5uv6zCw0WuygCLcBGAsYHQ/s50/laotra2.png" group-title="Lista Es 27",LaOtra (Comunidad de Madrid)
+http://185.41.244.69/laotra/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-ZjqJ0VRdKnY/YPcRf4oSfeI/AAAAAAAAFPY/wU8PeYivaX4MzkDuILg_2O1UFrdJMVbSACLcBGAsYHQ/s50/Melilla2.png" group-title="Lista Es 27",TV Melilla
+https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-Eu1jtsmYbbc/YPcU2DxFabI/AAAAAAAAFPg/LvnOVDHOk2EC5ipAvMEQAA4kJB-FNENaQCLcBGAsYHQ/s50/7-2.png" group-title="Lista Es 27",7 TV (Región de Murcia)
+http://185.41.244.69/7murcia/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-FVeYf4NWzI4/YPcZsrU5eoI/AAAAAAAAFPo/Wbj3B8SfTHUEjQrbAaJ1POaUvWYra_p7QCLcBGAsYHQ/s50/navarra2.png" group-title="Lista Es 27",Navarra TV
+https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-kUUaxEYJdNI/YPUd7ijDW_I/AAAAAAAAFFI/_J3eoqnt6gcV62Vgchl-GV3X3gMm2nabACLcBGAsYHQ/s50/etb1.png" group-title="Lista Es 27",ETB1 (País Vasco)
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-vH1c1X7lw8c/YPUeaFhYGjI/AAAAAAAAFFQ/aeEkwVqcoYQ7qFUqJD0h9YCSrMsjT8BegCLcBGAsYHQ/s50/etb2.png" group-title="Lista Es 27",ETB2 (País Vasco)
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-tcj2CVb7pIY/YPUhJ0Pw8KI/AAAAAAAAFFY/ZuNQbj5VNBEokiF59CSnZYNq2ojv0BjJACLcBGAsYHQ/s50/boing.png" group-title="Lista Es 27",Boing
+http://185.41.244.69/boing/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-Sk7ZlJ13LgQ/YPUh6XNxvZI/AAAAAAAAFFg/-4Uk8VIvaPcnrLlWG0OVJF9fQPiN38hGgCLcBGAsYHQ/s50/clan.png" group-title="Lista Es 27",Clan
+http://185.41.244.69/clan/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-UiB6dJBwkrM/YBhFFXKQRRI/AAAAAAAAEkw/xeKly8YdodU0-fTGjjK36iMyYYbttCuqgCLcBGAsYHQ/s50/disney.png" group-title="Lista Es 27",Disney Channel
+http://185.41.244.69/disneychannel/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-zKZYNAPz-8A/YPWIzrCllPI/AAAAAAAAFJk/z_sWCXl4pNIFTsthhzPQ1q_4CpoB6CqLgCLcBGAsYHQ/s50/DisneyJR.png" group-title="Lista Es 27",Disney Junior
+http://185.41.244.69/disneyjr/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-XRzFFC58MJA/YPUimZAKNBI/AAAAAAAAFFo/kccTBuf5G4wubpFa6prJssn3ME3lQvtVgCLcBGAsYHQ/s50/nickjr.png" group-title="Lista Es 27",Nick Jr.
+http://185.41.244.69/nickjr/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-klzSf33HRxU/YGyasTIr2KI/AAAAAAAAErc/WQhi2ISx8AYsc1dMyvqaUABbnmWjwAUkgCLcBGAsYHQ/s50/nick.png" group-title="Lista Es 27",Nickelodeon
+http://185.41.244.69/nickelodeon/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-AjKjMCGVRyQ/YPtDcEL_05I/AAAAAAAAFXk/_1gFhgO45Vkb4vULVaYbyY8kM_5JdI7rgCLcBGAsYHQ/s50/panda50.png" group-title="Lista Es 27",Canal Panda
+http://185.41.244.69/panda/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-0ezROCVUuG8/YPUlnLLkzvI/AAAAAAAAFF4/XpYdshjvxxkm0vfNRbaqtIcqeWv7ilF7wCLcBGAsYHQ/s50/planeta2.png" group-title="Lista Es 27",Planeta Junior TV
+https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-RdYlfYt5WY4/YPWHfSz-T2I/AAAAAAAAFJc/BjJ9xwKdUBgsLfAhVn9UUZMy0QKMdgsqwCLcBGAsYHQ/s50/BabyTV.png" group-title="Lista Es 27",Baby TV
+http://185.41.244.69/babytv/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-sTs8b1kOMDU/YPk99S9F1UI/AAAAAAAAFVM/8b6T-SYwOR0B1CNdV034OJ679SRLlULQQCLcBGAsYHQ/s50/mtv.png" group-title="Lista Es 27",MTV
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-U0zNsTU6vqE/YPtAohYdHGI/AAAAAAAAFXc/ug2r8JCECqcKzy0x1uvYIUMvOYZH2vujgCLcBGAsYHQ/s50/vh1.png" group-title="Lista Es 27",VH1
+http://185.41.244.69/vh1/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-N6Lp00WGtIs/YPqvS8WyuWI/AAAAAAAAFWU/oJmr0w2n5q8l86z36TN-cSCY44UpVfqnwCLcBGAsYHQ/s50/cmt.png" group-title="Lista Es 27",CMT : Country Music Television
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-33sS4llsjL0/YPWBGkWlrqI/AAAAAAAAFJE/AcFFuaNpodkEii58kcfu_3rvKpZjDN9ngCLcBGAsYHQ/s50/XLMusicaTV.png" group-title="Lista Es 27",XL Música TV
+https://cloud2.streaminglivehd.com/8098/8098/.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-9WhiUPuoR8Q/YPV_MDeYJYI/AAAAAAAAFI4/ORHVA8jVnO8yEO8AqEmfnJV10xK2yhXzACLcBGAsYHQ/s50/LatinosTV.png" group-title="Lista Es 27",Latinos TV
+https://cloud2.streaminglivehd.com:1936/8044/8044/.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-Yae7m5a8lM4/YPVhS-q-YQI/AAAAAAAAFHw/N-ilAGbNoxsOErEylNqFJXCTl0burcEuACLcBGAsYHQ/s50/cadenaelite.png" group-title="Lista Es 27",Cadena Élite TV
+https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-anhEbXk4Ofs/YPlHOECc4gI/AAAAAAAAFVk/wfctnu4vSu0aIx47MUg_DMAtQCtD_DzwQCLcBGAsYHQ/s50/latido2.png" group-title="Lista Es 27",Latido Music
+https://vidaprimo-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-ic6l60nrsXY/YPWDTHWh14I/AAAAAAAAFJQ/d2ROrp4F1iITpRdYXCsDg2-LDZdB2H9ggCLcBGAsYHQ/s50/SpektraTV.png" group-title="Lista Es 27",Spektra TV
+https://streamtv.mediasector.es/hls/spektratv/.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-d9zl4tZoiu0/YPWkdxZT0PI/AAAAAAAAFK8/vmBryP2O3K421wwxBnTuC9vuX1dCOxztQCLcBGAsYHQ/s50/Ibiza.png" group-title="Lista Es 27",Ibiza Global TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-HNSYd5msHAU/YPVmM9_nnXI/AAAAAAAAFIA/B9_dr5alzQUMFTCtK8_Zjwd8NoErUAvLwCLcBGAsYHQ/s50/kronehits.png" group-title="Lista Es 27",KroneHit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-IC77OsqCtF8/YPUxfbLwD2I/AAAAAAAAFHI/DcJp8T4Zyo4ZlyeJcJc-W6sjiYomvCg5wCLcBGAsYHQ/s50/24h.png" group-title="Lista Es 27",24 Horas
+http://185.41.244.69/24h/video.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-yQXdDCLQFt0/YPUpGfX53BI/AAAAAAAAFGY/5kJ6cYF4_nwRGx9qvUQsJ4wW6QiAfO-bACLcBGAsYHQ/s50/euronewsblanco.png" group-title="Lista Es 27",Euronews
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-Unc9wLqKP7w/YPh1n2MAKlI/AAAAAAAAFSk/SASgjXt4rkoyBu57f3oUckcLmH9uUfCWACLcBGAsYHQ/s50/Parlamento3.png" group-title="Lista Es 27",Canal Parlamento
+https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-LjtuTP_ejEA/YPV6-E-JibI/AAAAAAAAFIo/Oufr4w1NSp01sUWjAvAIHt_JmYf90gL_QCLcBGAsYHQ/s50/RT40-2.png" group-title="Lista Es 27",RT en Español (Rusia)
+https://rt-esp-gd.secure2.footprint.net/1102.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-_LEdnT_wAvQ/YPV8TSTEMNI/AAAAAAAAFIw/rmrFsZ5NbXwLuHVSSMxvO6qftSy8_mZIwCLcBGAsYHQ/s50/France24-40-2.png" group-title="Lista Es 27",France 24 (Francia)
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-ikKvEFVqN-4/YPUspSn2RiI/AAAAAAAAFGw/mUhQD2LBIggeEzHDywDwFtilf4nBWejMwCLcBGAsYHQ/s50/cctvchina.png" group-title="Lista Es 27",CGTN Español (China)
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-RTpzS1sUTVM/YPUw05EQB6I/AAAAAAAAFHA/bmRnK9cKwVMYC9K4Fnl6mFFZsKwT1EL9gCLcBGAsYHQ/s50/hispan.png" group-title="Lista Es 27",Hispan TV (Irán)
+https://live.presstv.ir/live/live.smil/.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-6hjweZPArEg/YPUu5qs3f3I/AAAAAAAAFG4/3phjU2A1xfoNv0oVBiDiVYY-ugS_q_9swCLcBGAsYHQ/s50/324.png" group-title="Lista Es 27",3/24 (Cataluña)
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
+#EXTINF:-1  logo="https://1.bp.blogspot.com/-F7R9wcbhIaY/YPVrjrrQ86I/AAAAAAAAFII/uek_-_NvZ4MNc_lXYVxjFiiIxuDzuGlRACLcBGAsYHQ/s50/negociosTV.png" group-title="Lista Es 27",Negocios TV
+https://play06.gooru.live/playnegocios/_definst_/5646-1603313320000/playlist.m3u8
